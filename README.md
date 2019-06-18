@@ -1,6 +1,6 @@
 # DRAGO2-API
 
-Disease Resistance Analysis and Gene Orthology (DRAGO 2) is the second version of a pipeline to
+The Disease Resistance Analysis and Gene Orthology (DRAGO 2) is the second version of a pipeline to
 annotate resistance genes. DRAGO 2 can be launched on any transcriptome or proteome, thus the input
 can be either DNA or protein sequences in FASTA format. It detects LRR, Kinase, NBS and TIR domains
 from 60 HMM modules created for this purpose using HMMER v3 package and it is also able to detect
@@ -14,8 +14,8 @@ update on all aspects of this research field and to encourage scientists to be a
 and of the data exchange.
 
 When it is desired to analyze thousands of sequences at a time (e.g. full transcriptome or proteome), the
-analysis through the web interface might be not suitable. That is why we have created an API to perform
-DRAGO2 analyses in a programmatic way. How to call the script?
+analysis through the web interface might not be suitable. That is why we created an API to perform DRAGO2
+analyses in a programmatic way. How to call the script?
 
 `bash drago2api.sh sequences.fasta > output.txt`
 
