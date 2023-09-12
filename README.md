@@ -23,9 +23,9 @@ It outputs a tab-separated table similar to the one given by the web interface. 
 please cite us:
 
 ```
-Osuna-Cruz CM, Paytuvi-Gallart A, Di Donato A, Sundesha V, Andolfo G, Aiese Cigliano R, Sanseverino W, Ercolano MR.
-PRGdb 3.0: a comprehensive platform for prediction and analysis of plant disease resistance genes.
-Nucleic Acids Research 2017. doi: 10.1093/nar/gkx1119
+Osuna-Cruz, C. M., Paytuvi-Gallart, A., Di Donato, A., Sundesha, V., Andolfo, G., Aiese Cigliano, R., Sanseverino, 
+W., & Ercolano, M. R. (2018). PRGdb 3.0: a comprehensive platform for prediction and analysis of plant disease 
+resistance genes. Nucleic acids research, 46(D1), D1197–D1201. https://doi.org/10.1093/nar/gkx1119
 
 Calle García, J., Guadagno, A., Paytuvi-Gallart, A., Saera-Vila, A., Amoroso, C. G., D'Esposito, D., Andolfo, G., 
 Aiese Cigliano, R., Sanseverino, W., & Ercolano, M. R. (2022). PRGdb 4.0: an updated database dedicated to genes 
